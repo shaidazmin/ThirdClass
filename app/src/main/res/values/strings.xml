@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Third Class</string>
+    <string name="text">Custom Layout</string>
+    <string name="showLayoutText">Press the button to see custom layout  </string>
+    <string name="parrot">This is a Parrot </string>
+</resources>
